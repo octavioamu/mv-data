@@ -6,6 +6,22 @@
 	"companyEmail": "lea@verou.me",
 	"invoice": [
 		{
+			"id": "3",
+			"date": "2017-06-10",
+			"recipient": {
+				"address": "belo horizonte"
+			},
+			"currency": "$",
+			"services": [
+				{
+					"amount": "10"
+				},
+				{
+					"amount": "20"
+				}
+			]
+		},
+		{
 			"id": "2",
 			"date": "2016-10-06",
 			"recipient": {
